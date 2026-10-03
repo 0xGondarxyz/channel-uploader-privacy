@@ -30,4 +30,4 @@ You can remove the app's access at any time on your [Google Account permissions 
 
 ## Contact
 
-Murat Can Yuksel: muratcanyuksel42@gmail.com
+inkwellexplainers@gmail.com
